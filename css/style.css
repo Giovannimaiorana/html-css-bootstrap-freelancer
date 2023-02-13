@@ -3,6 +3,8 @@
 }
 .ms-debug{
     height: 80px;
-    width: 400px;
-    background-color: blue;
+    background-color: red;
+}
+#about{
+    background-color: rgb(24,188 ,156 );
 }
