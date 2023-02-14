@@ -17,9 +17,7 @@
 #foot{
     background-color: rgb(44, 62, 80);
 }
-.ms-start{
-    color: rgb(24,188 ,156 );
-}
+
 #navigation{
     background-color: rgb(58, 84, 109);
 }
@@ -28,5 +26,5 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    margin-left: 35%;
+  
 }
